@@ -1,0 +1,16 @@
+name: My Top 8
+on:
+  schedule:
+  #runs every hour
+  - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-mytop8-section:
+    name: Update this repo's README my top 8 users.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: matthewjdegarmo/MyTop8@latest
+        with:
+          users_list: --MyspaceTom--, matthewjdegarmo, brrees01, intenseone, EdwardHanlon, endoleg, packersking, TylerLeonhardt
