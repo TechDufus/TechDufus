@@ -2,6 +2,10 @@
 
 #### I'm just a dufus trying to make it in this big bad world.
 
+## Here's my top 8 Dufus's
+<!-- MYTOP8-LIST:START -->
+<!-- MYTOP8-LIST:END -->
+
 <!--
 **TechDufus/TechDufus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
