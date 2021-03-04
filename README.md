@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### I'm just a dufus trying to make it in this big bad world.
+
 <!--
 **TechDufus/TechDufus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
